@@ -1,0 +1,14 @@
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\bin\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.exe
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\bin\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.deps.json
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\bin\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.runtimeconfig.json
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\bin\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.runtimeconfig.dev.json
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\bin\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.dll
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\bin\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.pdb
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\obj\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\obj\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.AssemblyInfoInputs.cache
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\obj\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.AssemblyInfo.cs
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\obj\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.csproj.CoreCompileInputs.cache
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\obj\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.dll
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\obj\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.pdb
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\obj\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.genruntimeconfig.cache
+D:\C#Projeleri\1'den100'eKadarAsalSayilar\1'den100'eKadarAsalSayilar\obj\Debug\netcoreapp3.1\1'den100'eKadarAsalSayilar.csproj.AssemblyReference.cache
